@@ -2,22 +2,25 @@
 <a><img src="https://freesvg.org/img/simple-globe-search.png" align="right" height="200" width="200" ></a>
 
 ## About Me
-- 👋 Hi, My name is [Yousef](https://yousefebrahimi.ir/)
-- 💼 I’m *SEO specialist* & WordPress web designer with 4+ years of experience.
-- 👀 Curious about **internet research** & **online investigation**.
-- 🌱 Now I'm learning Python.
+- :wave: Hi, My name is [Yousef](https://yousefebrahimi.ir/)
+- :briefcase: I’m *SEO specialist* & WordPress web designer with 4+ years of experience.
+- :eyes: Curious about **internet research** & **online investigation**.
+- :seedling: Now I'm learning Python.
 
 ## Skills
 - Google Search Console, Analytics, Data Studio, Trends, Alerts, Screaming Frog, Ahrefs, Bing Console, Microsoft Clarity
 - HTML, CSS, CRM, Email marketing, A/B testing, Backlink analysis, Content marketing, Keyword research
 
-## 📬 Contact Info
-<a href="https://www.linkedin.com/in/yousefebrahimi0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://yousefebrahimi.ir/"><img alt="Website" src="https://img.shields.io/badge/website-000000?&style=flat&logo=About.me&logoColor=white"/></a> &nbsp;
-<a href="https://www.twitter.com/yousefebrahimi0/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=flat&logo=twitter&logoColor=white"/></a> &nbsp;
-<a href="mailto:yousef.ebrahimi.digital@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+## :mailbox: Contact Info
+<p align="left">  
+<a href="https://twitter.com/yousefebrahimi0" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter-squared.png"/></a>
+<a href="https://linkedin.com/in/yousefebrahimi0" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="https://yousefebrahimi.ir/" target="blank"><img src="https://img.icons8.com/dusk/35/000000/resume.png"/></a>
+<a href="mailto:yousef.ebrahimi.digital@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
+</p>
 
-| 👨🏻‍💻 If you want to donate me: | <a href="https://paynym.is/+latevoice776"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></a> |
+
+| If you want to donate me: | <a href="https://paynym.is/+latevoice776"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></a> |
 | ------------- | ------------- |
 
 <details>
