@@ -19,9 +19,10 @@
 <a href="mailto:yousef.ebrahimi.digital@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 </p>
 
-
-| If you want to donate me: | <a href="https://paynym.is/+latevoice776"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></a> |
+| Lightning Support | <a href="https://lntxbot.com/@yousefebrahimi0">Send Satoshi🗲</a> |
 | ------------- | ------------- |
+| **Stealthy Support** | <a href="https://paynym.is/+latevoice776">**Send BTC  ₿**</a> |
+
 
 <details>
 <summary>My Github Stats</summary>
