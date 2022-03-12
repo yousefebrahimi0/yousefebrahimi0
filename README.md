@@ -23,9 +23,8 @@
 | ------------- | ------------- |
 | **Stealthy Support** | <a href="https://paynym.is/+latevoice776">**Send BTC  ₿**</a> |
 
-
 <details>
-<summary>My Github Stats</summary>
+  <summary><p align="center">My Github Stats ▼</p></summary>
   <p align="center">
   <a align="center"> <img src="https://komarev.com/ghpvc/?username=yousefebrahimi0&color=brightgreen" alt="yousefebrahimi0" /> </a>
     <br>
@@ -33,4 +32,4 @@
     <br><br>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yousefebrahimi0&theme=monokai&&show_icons=true&title_color=e7e7e7&icon_color=878787&text_color=ffffff&bg_color=231f20" />
   </p>
-</details>
+</details> 
