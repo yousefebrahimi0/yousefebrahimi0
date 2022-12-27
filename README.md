@@ -2,7 +2,7 @@
 <a><img src="https://freesvg.org/img/simple-globe-search.png" align="right" height="200" width="200" ></a>
 
 ## About Me
-- :wave: Hi, My name is [Yousef](https://yousefebrahimi.ir/)
+- :wave: Hi, My name is Yousef.
 - :briefcase: I’m *SEO specialist* & WordPress web designer with 4+ years of experience.
 - :eyes: Curious about **internet research** & **online investigation**.
 - :seedling: Now I'm learning Python.
@@ -19,7 +19,7 @@
 <a href="mailto:yousef.ebrahimi.digital@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 </p>
 
-| Lightning Support | <a href="https://lntxbot.com/@yousefebrahimi0">Send Satoshi🗲</a> |
+| Lightning Support | <a href="https://justpaste.it/yousefebrahimi0">Send Satoshi🗲</a> |
 | ------------- | ------------- |
 | **Stealthy Support** | <a href="https://paynym.is/+latevoice776">**Send BTC  ₿**</a> |
 
