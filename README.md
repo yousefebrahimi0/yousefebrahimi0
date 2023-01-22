@@ -15,8 +15,7 @@
 <p align="left">  
 <a href="https://twitter.com/yousefebrahimi0" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter-squared.png"/></a>
 <a href="https://linkedin.com/in/yousefebrahimi0" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
-<a href="https://yousefebrahimi.ir/" target="blank"><img src="https://img.icons8.com/dusk/35/000000/resume.png"/></a>
-<a href="mailto:yousef.ebrahimi.digital@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
+<a href="mailto:yousefebrahimi.u6fau@slmail.me" target="blank"><img src="https://img.icons8.com/color/35/000000/email.png"/></a>
 </p>
 
 | Lightning Support | <a href="https://justpaste.it/yousefebrahimi0">Send Satoshi🗲</a> |
