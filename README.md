@@ -3,13 +3,14 @@
 
 ## About Me
 - :wave: Hi, My name is Yousef.
-- :briefcase: I’m *SEO specialist* & WordPress web designer with 4+ years of experience.
+- :briefcase: I’m *SEO specialist* & WordPress web designer with 5+ years of experience.
 - :eyes: Curious about **internet research** & **online investigation**.
-- :seedling: Now I'm learning Python.
+- :seedling: Passionate learner exploring data science/analytics and learning Python
 
 ## Skills
 - Google Search Console, Analytics, Data Studio, Trends, Alerts, Screaming Frog, Ahrefs, Bing Console, Microsoft Clarity
 - HTML, CSS, CRM, Email marketing, A/B testing, Backlink analysis, Content marketing, Keyword research
+- Data visualization, Business intelligence, Data mining, Big data analysis, BowerBI, Tableau
 
 ## :mailbox: Contact Info
 <p align="left">  
