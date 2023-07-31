@@ -2,7 +2,7 @@
 <a><img src="https://freesvg.org/img/simple-globe-search.png" align="right" height="170" width="170" ></a>
 
 ## About Me
-- Hi, My name is Yousef. I'm a data science business analyst, WordPress web designer & SEO specialist
+- Hi, I'm a data science business analyst, WordPress web designer & SEO specialist
 - Curious about **internet research** & **online investigation** & data
 
 ## Skills
@@ -20,4 +20,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yousefebrahimi0) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yousefebrahimi0) 
 
 ## You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yousefebrahimi0) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yousefeb) [![Lightning Support](https://img.shields.io/badge/Lightning%20Support-Send%20Satoshi%F0%9F%97%B2-blueviolet)](https://justpaste.it/yousefebrahimi0) [![Stealthy Support](https://img.shields.io/badge/Stealthy%20Support-Send%20BTC%20₿-important)](https://paynym.is/+latevoice776)
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yousefebrahimi0) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yousefeb) [![Lightning Support](https://img.shields.io/badge/Lightning%20Support-Send%20Satoshi%F0%9F%97%B2-blueviolet)](https://justpaste.it/yousefebrahimi0) [![Paynym Samourai Support](https://img.shields.io/badge/Paynym%20Samourai%20Support-Send%20%E2%82%BF-important)](https://paynym.is/+latevoice776) [![Bitcoin Support](https://img.shields.io/badge/Bitcoin%20Support-Send%20BTC%20%E2%82%BF-important)](https://justpaste.it/yousefebrahimi00)
