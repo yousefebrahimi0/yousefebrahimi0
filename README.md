@@ -1,11 +1,12 @@
 <!-- Yousef Ebrahimi, SEO Specialist & Data Detective, helping you succeed through digital marketing. I provide comprehensive SEO services. -->
 <a><img src="https://freesvg.org/img/simple-globe-search.png" align="right" height="170" width="170" ></a>
-Hi, I'm a data science business analyst, WordPress web designer & SEO specialist. Curious about **internet research**, **online investigation**, and converting raw data to **valuable information**
+Hi, I'm a Junior data scientist, market researcher, WordPress web designer & SEO specialist. Curious about **internet research**, **online investigation**, and converting raw data to **valuable information**
 
 ## Skills
-- Python, Data visualization, Business intelligence, Data mining, Big data analysis, BowerBI, Tableau
+- Python, Data visualization, Business intelligence, Data mining, Big data analysis, Tableau
 - Google Search Console, Analytics, Data Studio, Trends, Alerts, Screaming Frog, Ahrefs, Bing Console, Microsoft Clarity
 - HTML, CSS, CRM, Email marketing, A/B testing, Backlink analysis, Content marketing, Keyword research
+- My digital Certificates [Credly Badges](https://www.credly.com/users/yousefebrahimi0/)
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
