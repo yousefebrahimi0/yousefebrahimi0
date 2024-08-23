@@ -1,6 +1,6 @@
 <!-- Yousef Ebrahimi, SEO Specialist & Data Detective, helping you succeed through digital marketing. I provide comprehensive SEO services. -->
 <a><img src="https://freesvg.org/img/simple-globe-search.png" align="right" height="170" width="170" ></a>
-Hi, I'm a Junior data scientist, market researcher, WordPress web designer & SEO specialist. Curious about **internet research**, **online investigation**, and converting raw data to **valuable information**
+Hi, I'm a data scientist, market researcher, WordPress web designer & SEO specialist. Curious about **internet research**, **online investigation**, and converting raw data to **valuable information**
 
 ## Skills
 - Python, Data visualization, Business intelligence, Data mining, Big data analysis, Tableau
