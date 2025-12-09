@@ -1,11 +1,17 @@
 <!-- Yousef Ebrahimi, SEO Specialist & Data Detective, helping you succeed through digital marketing. I provide comprehensive SEO services. -->
 <a><img src="https://freesvg.org/img/simple-globe-search.png" align="right" height="170" width="170" ></a>
-Hi, I'm a data scientist, market researcher, WordPress web designer & SEO specialist. Curious about **internet research**, **online investigation**, and converting raw data to **valuable information**
+**Senior Data Analyst & Digital Growth Strategist**
+
+I bridge the gap between **Technical Engineering** and **Business Strategy**.
+
+* 🔭 **Focus:** ETL Pipelines, Predictive Analytics, Technical SEO, Automation.
+* 🌱 **Stack:** Python, SQL, Tableau, Salesforce, Google Cloud.
+* ⚡ **Impact:** Scaled organic traffic by 200% & optimized $4M+ in revenue pipelines.
 
 ## Skills
 - Python, Data visualization, Business intelligence, Data mining, Big data analysis, Tableau
 - Google Search Console, Analytics, Data Studio, Trends, Alerts, Screaming Frog, Ahrefs, Bing Console, Microsoft Clarity
-- HTML, CSS, CRM, Email marketing, A/B testing, Backlink analysis, Content marketing, Keyword research
+- HTML, CSS, CRM, Email marketing, A/B testing, Backlink analysis, Content marketing, Keyword research, Automation
 - My digital Certificates [Credly Badges](https://www.credly.com/users/yousefebrahimi0/)
 
 ## Tech Stack
