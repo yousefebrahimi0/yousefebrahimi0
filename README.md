@@ -4,9 +4,9 @@
 
 I bridge the gap between **Technical Engineering** and **Business Strategy**.
 
-* 🔭 **Focus:** ETL Pipelines, Predictive Analytics, Technical SEO, Automation.
+* 🔭 **Focus:** Predictive Analytics, Technical SEO, Automation.
 * 🌱 **Stack:** Python, SQL, Tableau, Salesforce, Google Cloud.
-* ⚡ **Impact:** Scaled organic traffic by 200% & optimized $4M+ in revenue pipelines.
+* ⚡ **Impact:** Scaled organic traffic by 200% & optimized in revenue pipelines.
 
 ## Skills
 - Python, Data visualization, Business intelligence, Data mining, Big data analysis, Tableau
