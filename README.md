@@ -4,9 +4,9 @@
 
 I bridge the gap between **Technical Engineering** and **Business Strategy**.
 
-* 🔭 **Focus:** Predictive Analytics, Technical SEO, Automation.
-* 🌱 **Stack:** Python, SQL, Tableau, Salesforce, Google Cloud.
-* ⚡ **Impact:** Scaled organic traffic by 200% & optimized in revenue pipelines.
+* 🔭 **Focus:** Predictive Analytics, Technical SEO, Automation, Data Analysis
+* 🌱 **My new product** I built GreenRah, the cooler way through hotter cities. Our live walking map uses shade, weather, terrain and accessibility data to help people choose more comfortable routes. Live and working in EU and GB.
+
 
 ## Skills
 - Python, Data visualization, Business intelligence, Data mining, Big data analysis, Tableau
