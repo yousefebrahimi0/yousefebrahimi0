@@ -1,37 +1,46 @@
 name: Metrics
+
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches: ["main", "master"]
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
+    name: Generate GitHub Metrics
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate metrics SVG
+        uses: lowlighter/metrics@latest
         with:
+          # GitHub token for GitHub account/profile data
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Token used to commit github-metrics.svg back to this repository
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: main
           filename: github-metrics.svg
 
-          # Core options
+          # Profile
           user: yousefebrahimi0
           template: classic
-          base: header, activity, community, repositories, metadata
           config_timezone: Europe/Lisbon
+
+          # Main “GitHub insight” sections
+          base: header, activity, community, repositories, metadata
 
           # Notable contributions
           plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_types: commit, pull_request, issue
           plugin_notable_indepth: yes
 
-          # PageSpeed Insights
+          # Google PageSpeed Insights for your site
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://yousef.uk
           plugin_pagespeed_detailed: yes
