@@ -16,6 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: main
           filename: github-metrics.svg
 
           # Core options
@@ -30,16 +31,8 @@ jobs:
           plugin_notable_types: commit, pull_request, issue
           plugin_notable_indepth: yes
 
-          # Achievements (ignoring 'manager' bypasses deprecated Projects Classic API)
-          plugin_achievements: yes
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_display: detailed
-          plugin_achievements_ignored: manager
-
           # PageSpeed Insights
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://yousef.uk
-          plugin_pagespeed_device: desktop
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
