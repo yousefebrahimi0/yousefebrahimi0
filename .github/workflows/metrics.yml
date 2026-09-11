@@ -20,28 +20,16 @@ jobs:
       - name: Generate metrics SVG
         uses: lowlighter/metrics@latest
         with:
-          # GitHub token for GitHub account/profile data
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Token used to commit github-metrics.svg back to this repository
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: main
           filename: github-metrics.svg
-
-          # Profile
           user: yousefebrahimi0
           template: classic
           config_timezone: Europe/Lisbon
-
-          # Main “GitHub insight” sections
           base: header, activity, community, repositories, metadata
-
-          # Notable contributions
-          plugin_notable: yes
-          plugin_notable_indepth: yes
-
-          # Google PageSpeed Insights for your site
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://yousef.uk
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_achievements: yes
