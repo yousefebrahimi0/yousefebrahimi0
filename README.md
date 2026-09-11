@@ -14,6 +14,9 @@ I bridge the gap between **Technical Engineering** and **Business Strategy**.
 - HTML, CSS, CRM, Email marketing, A/B testing, Backlink analysis, Content marketing, Keyword research, Automation
 - My digital Certificates [Credly Badges](https://www.credly.com/users/yousefebrahimi0/)
 
+## GitHub insight
+  ![GitHub Metrics](github-metrics.svg)
+
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
