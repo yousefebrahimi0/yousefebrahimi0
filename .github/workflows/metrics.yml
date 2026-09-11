@@ -32,4 +32,3 @@ jobs:
           plugin_pagespeed_url: https://yousef.uk
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_achievements: yes
