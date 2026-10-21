@@ -29,7 +29,3 @@ jobs:
           template: classic
           config_timezone: Europe/Lisbon
           base: header, activity, community, repositories, metadata
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://yousef.uk
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
